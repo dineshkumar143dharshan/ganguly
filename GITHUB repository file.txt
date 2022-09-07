@@ -3,4 +3,4 @@
   initial commit
   hide implemented commit
   last seen hiding
-  
+  available to see last seen
