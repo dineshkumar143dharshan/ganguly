@@ -4,4 +4,6 @@
   hide implemented commit
   last seen hiding
   we need do more hardwork to achieve many things
+  add audio feature
+  add video feature
   
